@@ -11,6 +11,6 @@
 ### Sacn Qr code 👇
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@SilvernimaBotma/SL-ZIM-MD-SCANER?outputonly=1&lite=1#index.js)
   
-### <a href="https://github.com/darkalphaxteam/Queen-Bixby-MD/fork"><img align="left" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+### <a href="https://github.com/darkalphaxteam/Queen-Bixby-MD/fork"><img align="left" src="https://i.imgur.com/z2GC4F8.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
   
